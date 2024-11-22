@@ -1,0 +1,7 @@
+1.  Vergleich von Objekten in Sensordaten
+        - Early/Mid fusion einzelne Detection auf Radar/Lidar/Kamera
+        - Early & Mid fusion vergleich
+
+2.  Reinforcement Agent, Konventionelle Bahnplanung
+
+3.  Obejct detection & Sortirung nach Farben mit Kamerabilder
